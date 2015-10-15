@@ -1,1 +1,6 @@
 Respuestas a las preguntas de la práctica 3
+
+¿Cuál es el propósito de trabajar con múltiples ramas?
+Seguir diferentes líneas de desarrollo sobre un mismo código de un proyecto.
+
+
