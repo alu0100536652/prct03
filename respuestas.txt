@@ -6,3 +6,6 @@ Seguir diferentes líneas de desarrollo sobre un mismo código de un proyecto.
 ¿Qué es una reorganización (rebase)?
 Es unificar las remas dejando un arbol del repositorio de forma lineal, sin bifurcaciones como ocurre con el merge.
 
+¿Cuál es la ventaja de reorganizar (rebase)?
+Dejar el arbol del repositorio lineal segun los commits hechos.
+
